@@ -1,0 +1,3 @@
+#License
+
+A license document
